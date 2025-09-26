@@ -34,10 +34,10 @@ A simple web application for managing support tickets with **role-based access**
 
 ---
 
-## Folder Structure
+#.env file
 
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET_KEY=your_jwt_secret
 ADMIN_EMAIL=admin123@gmail.com
 ADMIN_PASSWORD=12345678
-PORT=5000
+PORT=2000
